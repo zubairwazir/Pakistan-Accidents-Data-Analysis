@@ -99,19 +99,6 @@ provincial_accidents.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -197,23 +184,7 @@ provincial_accidents.head()
 provincial_accidents.tail()
 ```
 
-
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -324,13 +295,13 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](images/output_6_0.png)
     
 
 
 
     
-![png](output_6_1.png)
+![png](images/output_6_1.png)
     
 
 
@@ -343,7 +314,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](images/output_7_0.png)
     
 
 
@@ -367,13 +338,13 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](images/output_9_0.png)
     
 
 
 
     
-![png](output_9_1.png)
+![png](images/output_9_1.png)
     
 
 
@@ -390,7 +361,7 @@ plt.show()
 
 
     
-![png](output_10_1.png)
+![png](images/output_10_1.png)
     
 
 
@@ -404,7 +375,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](images/output_11_0.png)
     
 
 
@@ -418,7 +389,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](images/output_12_0.png)
     
 
 
@@ -432,7 +403,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](images/output_13_0.png)
     
 
 
@@ -446,7 +417,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](images/output_14_0.png)
     
 
 
@@ -460,7 +431,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](images/output_15_0.png)
     
 
 
@@ -474,7 +445,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](images/output_16_0.png)
     
 
 
@@ -488,7 +459,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
@@ -502,7 +473,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
@@ -516,7 +487,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](images/output_19_0.png)
     
 
 
@@ -530,7 +501,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
@@ -544,7 +515,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -558,7 +529,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](images/output_22_0.png)
     
 
 
@@ -579,7 +550,7 @@ plt.show()
 
 
     
-![png](output_23_2.png)
+![png](images/output_23_2.png)
     
 
 
